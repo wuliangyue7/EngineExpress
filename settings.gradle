@@ -1,0 +1,4 @@
+rootProject.name = 'engineexpress'
+include 'engineexpress-core'
+include 'engineexpress-example'
+
