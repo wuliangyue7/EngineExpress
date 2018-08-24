@@ -1,2 +1,2 @@
-# SimpleServerEngine
-simple java server engine
+# SimpleNetEngine
+simple java app net engine
